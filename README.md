@@ -12,6 +12,7 @@ I have:
 5. Thin teek pancakes
 6. THIN TEEK SPECIALTY NOODLES!
 7. Thin teek soda(Buy one, get a chance to earn $500 MILLION dollars right in your can!)
-   
+8. And a lot more!
+
 All for $6.99!
 (P.S. Specialty noodles cost $7.99)
