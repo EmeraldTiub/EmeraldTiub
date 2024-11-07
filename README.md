@@ -16,3 +16,6 @@ I have:
 
 All for $6.99!
 (P.S. Specialty noodles cost $7.99)
+
+If you need a GPU, you can buy one from Teekvidia! Order at Teekvidia.com.
+I have TPUs, APUs, GPUs, and CPUs.
