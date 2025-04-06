@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=EmeraldTiub&color=green)
+
+
 My name is Little Tiub and I am the owner of Little Tiub's. Visit my account at leetcode.com/u/little_tiub.
 If you want to order something at Little Tiub's, please order at littletiubs.eats and scroll through the long list of delicious thin teek food!
 
@@ -17,5 +20,11 @@ I have:
 All for $6.99!
 (P.S. Specialty noodles cost $7.99)
 
-If you are in need of a processing unit, you can buy one from Teekvidia! Order at Teekvidia.com.
-I have TPUs, APUs, GPUs, and CPUs.
+[![EmeraldTiub's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmeraldTiub)](https://github.com/EmeraldTiub/github-readme-stats)
+
+
+![Badges](https://leetcode-badge-showcase.vercel.app/api?username=Little_Tiub)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Little_Tiub)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=EmeraldTiub)
